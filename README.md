@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-This is a machine learning-based medical decision support tool for predicting diabetes risk using patient health metrics. The system uses a trained classification model to assess whether a patient is likely to have diabetes based on clinical measurements.
+This is a machine learning-based medical decision support tool for predicting diabetes risk using patient health metrics. The system uses a trained classification model to assess whether a patient is likely to have diabetes based on clinical measurements. 
 
 ## ✨ Features
 
